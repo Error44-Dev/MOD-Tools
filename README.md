@@ -1,2 +1,2 @@
-# modtools
+# MOD TOOLS
 Discord bot moderation commands
